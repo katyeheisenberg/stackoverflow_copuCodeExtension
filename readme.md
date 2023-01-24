@@ -1,1 +1,1 @@
-# Extension lets you copy code from the StackOverflow page just by clicking on the button
+# Extension lets you copy code from the StackOverflow page just by clicking one button
